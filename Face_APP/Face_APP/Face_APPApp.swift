@@ -11,7 +11,8 @@ import SwiftUI
 struct Face_APPApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            FaceIDView()
         }
     }
 }
+
